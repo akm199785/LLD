@@ -2,7 +2,7 @@
 # If a class B is subtype of class A then object of class A should be able to replacable by object of class B
 # without breaking the behaviour of the program
 
-# means classes should design that adhere Liskov substitution principle
+# means classes should design in such way that adhere Liskov substitution principle
 
 #lets take a example that not adhere this principle
 from abc import ABC, abstractmethod
